@@ -19,6 +19,7 @@ GF_SECURITY_ADMIN_PASSWORD=admin
 git clone https://github.com/nrdnt/prometheus-grafana-with-docker.git
 cd prometheus-grafana-with-docker
 docker compose up -d
+```
 
 ## Prerequisites:
 
